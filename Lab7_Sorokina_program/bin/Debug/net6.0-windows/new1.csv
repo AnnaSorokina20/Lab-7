@@ -1,0 +1,11 @@
+Name,Price,Service,Date,Description,AdditionalInfo;;;;;
+anna,90,Haircut,09.09.2027,,;;;;;
+ghjds,90,Pedicure,09.09.2029,,;;;;;
+Marry,900,Manicure,09.09.2027,hi,me;;;;;
+Tom,200,Massage,20.08.2028,red,meen;;;;;
+;;;;;
+Name;Price;Service;Date;Description;AdditionalInfo
+anna;90;Haircut;09.09.2027;;
+ghjds;90;Pedicure;09.09.2029;;
+Marry;900;Manicure;09.09.2027;hi;me
+Tom;200;Massage;20.08.2028;red;meen

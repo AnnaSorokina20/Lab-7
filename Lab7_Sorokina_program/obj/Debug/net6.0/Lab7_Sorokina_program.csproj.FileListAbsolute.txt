@@ -1,0 +1,15 @@
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\bin\Debug\net6.0\Lab7_Sorokina_program.exe
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\bin\Debug\net6.0\Lab7_Sorokina_program.deps.json
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\bin\Debug\net6.0\Lab7_Sorokina_program.runtimeconfig.json
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\bin\Debug\net6.0\Lab7_Sorokina_program.dll
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\bin\Debug\net6.0\Lab7_Sorokina_program.pdb
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.csproj.AssemblyReference.cache
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.AssemblyInfoInputs.cache
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.AssemblyInfo.cs
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.csproj.CoreCompileInputs.cache
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.dll
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\refint\Lab7_Sorokina_program.dll
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.pdb
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\Lab7_Sorokina_program.genruntimeconfig.cache
+D:\ХАИ\2 курс\ООП\Lab7\Lab7_Sorokina_program\Lab7_Sorokina_program\obj\Debug\net6.0\ref\Lab7_Sorokina_program.dll
