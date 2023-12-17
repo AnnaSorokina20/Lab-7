@@ -530,54 +530,54 @@ public class Program
                             break;
                     }
                     break;
-                //case 9:
+                case 9:
 
-                //    Console.WriteLine("Choose the format to clear:");
-                //    Console.WriteLine("1 - Clear CSV file");
-                //    Console.WriteLine("2 - Clear JSON file");
-                //    Console.WriteLine("3 - Clear Collection");
+                    Console.WriteLine("Choose the format to clear:");
+                    Console.WriteLine("1 - Clear CSV file");
+                    Console.WriteLine("2 - Clear JSON file");
+                    Console.WriteLine("3 - Clear Collection");
 
-                //    int clearChoice = int.Parse(Console.ReadLine());
-                //    string clearFilePath;
+                    int clearChoice = int.Parse(Console.ReadLine());
+                    string clearFilePath;
 
-                //    switch (clearChoice)
-                //    {
-                //        case 1:
-                //            Console.WriteLine("Enter CSV file name to clear:");
-                //            clearFilePath = Console.ReadLine();
-                //            if (File.Exists(clearFilePath))
-                //            {
-                //                File.WriteAllText(clearFilePath, string.Empty); // Очистка содержимого файла
-                //                Console.WriteLine("CSV file cleared.");
-                //            }
-                //            else
-                //            {
-                //                Console.WriteLine("File does not exist.");
-                //            }
-                //            break;
-                //        case 2:
-                //            Console.WriteLine("Enter JSON file name to clear:");
-                //            clearFilePath = Console.ReadLine();
-                //            if (File.Exists(clearFilePath))
-                //            {
-                //                File.WriteAllText(clearFilePath, "[]"); // Установка содержимого файла в пустой JSON массив
-                //                Console.WriteLine("JSON file cleared.");
-                //            }
-                //            else
-                //            {
-                //                Console.WriteLine("File does not exist.");
-                //            }
-                //            break;
+                    switch (clearChoice)
+                    {
+                        case 1:
+                            Console.WriteLine("Enter CSV file name to clear:");
+                            clearFilePath = Console.ReadLine();
+                            if (File.Exists(clearFilePath))
+                            {
+                                File.WriteAllText(clearFilePath, string.Empty); // Очистка содержимого файла
+                                Console.WriteLine("CSV file cleared.");
+                            }
+                            else
+                            {
+                                Console.WriteLine("File does not exist.");
+                            }
+                            break;
+                        case 2:
+                            Console.WriteLine("Enter JSON file name to clear:");
+                            clearFilePath = Console.ReadLine();
+                            if (File.Exists(clearFilePath))
+                            {
+                                File.WriteAllText(clearFilePath, "[]"); // Установка содержимого файла в пустой JSON массив
+                                Console.WriteLine("JSON file cleared.");
+                            }
+                            else
+                            {
+                                Console.WriteLine("File does not exist.");
+                            }
+                            break;
 
-                //        case 3:
-                //            salon.Clear();
-                //            Console.WriteLine("Collection cleared.");
-                //            break;
-                //        default:
-                //            Console.WriteLine("Invalid option.");
-                //            break;
-                //    }
-                //    break;
+                        case 3:
+                            salon.Clear();
+                            Console.WriteLine("Collection cleared.");
+                            break;
+                        default:
+                            Console.WriteLine("Invalid option.");
+                            break;
+                    }
+                    break;
 
                 case 0:
                     return;
